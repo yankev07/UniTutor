@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "199758261714",
+    "firebase_url": "https://unitutor-4f908.firebaseio.com",
+    "project_id": "unitutor-4f908",
+    "storage_bucket": "unitutor-4f908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199758261714:android:d489d08213507c10",
+        "android_client_info": {
+          "package_name": "com.ndhuproject.unitutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199758261714-qoom1p4vu6jhip4gkeqvcldnuq0vgau6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfDs4BxYDBhVsW9TqUZKK1H_32pNuDSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

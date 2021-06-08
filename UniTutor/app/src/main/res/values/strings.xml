@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">UniTutor</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_tutor">Share your skills? Become a Tutor</string>
+    <string name="text_tutor_back">Return to Main Page</string>
+    <string name="spinner_title">Choose your department</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_studentId">Enter Student ID</string>
+    <string name="error_message_password">Enter Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <string name="version">Current Version : 1.0.0 - May 2018</string>
+
+    <string name="about">UniTutor was developed by Daniel Imanga, Mbulelo Mabusela, of the Department of Computer Science and Information Engineering.\n\nIt aims to make finding assistance on campus so much more easier.\n\n\n</string>
+
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+
+
+    <array name="categories">
+        <item>Languages</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Music</item>
+        <item>Art</item>
+        <item>Outdoors Activities</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="tutorCategories">
+        <item>Choose a category</item>
+        <item>Languages</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Music</item>
+        <item>Art</item>
+        <item>Outdoors Activities</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="languagesList">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+        <item>Taiyu</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Korean</item>
+        <item>Portugese</item>
+        <item>Japanese</item>
+        <item>Indonesian</item>
+        <item>Vietnamese</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="scienceList">
+        <item>Biology</item>
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>Chemistry</item>
+        <item>Programming</item>
+        <item>Ecology</item>
+        <item>Environmental Sciences</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="sportsList">
+        <item>Soccer</item>
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Cricket</item>
+        <item>Weight lifting</item>
+        <item>Volleyball</item>
+        <item>Tennis</item>
+        <item>Badminton</item>
+        <item>Softball</item>
+        <item>Swimming</item>
+        <item>Skateboard</item>
+        <item>Roller</item>
+    </array>
+
+
+    <array name="musicList">
+        <item>Guitar</item>
+        <item>Piano</item>
+        <item>Drums</item>
+        <item>Trumpet</item>
+        <item>flute</item>
+        <item>Traditional Drums</item>
+        <item>Wired Instruments</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="artList">
+        <item>Photography</item>
+        <item>Painting</item>
+        <item>Drawing</item>
+        <item>Singing</item>
+        <item>Dancing</item>
+        <item>Graffiti</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="outdoorsActivitiesList">
+        <item>Hiking</item>
+        <item>Jogging</item>
+        <item>Cycling</item>
+        <item>Hangout</item>
+        <item>Rock Climbing</item>
+        <item>Others</item>
+    </array>
+
+
+    <array name="othersList">
+        <item>Cooking</item>
+        <item>Others</item>
+    </array>
+
+    <array name="emptyField">
+        <item></item>
+    </array>
+
+
+    <array name="fees">
+        <item>Free</item>
+        <item>Less than 50NTD / hour</item>
+        <item>50NTD - 100NTD / hour</item>
+        <item>100NTD - 150NTD / hour</item>
+        <item>150NTD - 200NTD / hour</item>
+        <item>More than 200NTD / hour</item>
+    </array>
+
+
+    <array name="availability">
+        <item>Everyday</item>
+        <item>1day / Week</item>
+        <item>2days / Week</item>
+        <item>3days / Week</item>
+        <item>4days / Week</item>
+        <item>5days / Week</item>
+        <item>6days / Week</item>
+    </array>
+
+
+    <array name="location">
+        <item>NDHU Campus</item>
+        <item>Home Tutoring</item>
+        <item>Elsewhere</item>
+    </array>
+
+
+    <array name="contact_type">
+        <item>Mobile Phone</item>
+        <item>Email Address</item>
+        <item>Line ID</item>
+        <item>Facebook</item>
+        <item>Instagram</item>
+    </array>
+
+
+    <array name="courses_categories">
+        <item>General Education Center</item>
+        <item>Dept. of Management Science and Finance</item>
+        <item>Dept. of Computer Science and Information Engineering</item>
+        <item>Dept. of Finance</item>
+        <item>Dept. of English</item>
+        <item>Dept. of Counseling and Clinical Psychology</item>
+        <item>Dept. of Law</item>
+        <item>Dept. of Sinophone Litteratures</item>
+        <item>Dept. of Sociology</item>
+        <item>Dept. of Taiwan and Regional Studies</item>
+        <item>Dept. of Public Administration</item>
+        <item>Dept. of Physics</item>
+        <item>Dept. of Applied Mathmatics</item>
+        <item>Dept. of Chemistry</item>
+        <item>Dept. of Life Science</item>
+        <item>Dept. of Materials Science and Engineering</item>
+        <item>Dept. of Opto-Electronic Engineering</item>
+        <item>Dept. of Indigenous Languages and Communication</item>
+        <item>Dept. of Ethnic Relations and Cultures</item>
+        <item>Dept. of Indigenous Affairs and Ethno-Development</item>
+        <item>Dept. of Business Administration</item>
+        <item>Dept. of International Business</item>
+        <item>Dept. of Accounting</item>
+        <item>Dept. of Economics</item>
+        <item>Dept. of Chinese Language and Litterature</item>
+        <item>Dept. of Tourism Recreation and Leisure Studies</item>
+        <item>Dept. of Curriculum Design and Human Potential Development</item>
+        <item>Dept. of Education Administration and Management</item>
+        <item>Dept. of Special Education</item>
+        <item>Dept. of Early Childhood Education</item>
+        <item>Dept. of Music</item>
+        <item>Center of Teacher Education</item>
+        <item>Dept. of Arts and Design</item>
+        <item>Dept. of Arts and Creative and Creative Industries</item>
+        <item>Dept. of Natural Ressources and Environmental Studies</item>
+    </array>
+
+
+    <array name="general_education_categories">
+        <item>Languages</item>
+        <item>Service Learning</item>
+        <item>Physical Education and Military Training</item>
+        <item>Communal Life and Humanity Care</item>
+        <item>Fundamental Science and Modern Technology</item>
+        <item>Managerial Literacy and Enterprise Knowledge</item>
+        <item>Education Practice and Lifelong Learning</item>
+        <item>Art in Life</item>
+        <item>Multiculturalism and Ethnicity</item>
+        <item>Natural Resources and Environmental Studies</item>
+        <item>Holistic Education</item>
+        <item>Recognition Core Courses</item>
+        <item>Information Technology</item>
+        <item>Rational Thinking</item>
+        <item>Cultural Literacy</item>
+        <item>Local Commitment</item>
+    </array>
+
+
+    <array name="ratings">
+        <item>1 / 5 stars</item>
+        <item>2 / 5 stars</item>
+        <item>3 / 5 stars</item>
+        <item>4 / 5 stars</item>
+        <item>5 / 5 stars</item>
+    </array>
+
+</resources>
